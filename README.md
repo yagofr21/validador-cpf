@@ -1,2 +1,2 @@
 # validador-cpf
-Software developed in Python for validar CPF
+Software developed in Python for validate CPF
